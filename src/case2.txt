@@ -1,0 +1,25 @@
+[
+   % round: 
+   3,
+
+   % computer score: 
+   6,
+
+   % hand: 
+   [ h4, h7, d8, h9, hq ],
+ 
+   % human  score: 
+   10,
+
+   % hand: 
+   [ c9, h8, d9, h9, hj ],
+
+   % draw pile:  
+   [ h5, c5, d5, tx, tq, tj, tk, hk, h3, j3, h6, hx, s9, sx, sj, sq, sk, d6, d3, d7, d4, dx, cx, cq, ck, j1, t5, t3, t8, t4, t6, s6, s5, s4, s3, s7, j1, c3, c5, c6, c7, hj, hq, hk, t4, t6, j3, sq, sx, s9, c8, c4, c9, cq, ck, cj, cx, s8, sj, sk, j2, h6, h3, h4, h5, hx, h8, h7, dx, dq, dk, d6, d5, d3, d4, d7, dj, d9, d8, t8, t5, t3, t9, tx, tq, tk, tj, t7 ],
+
+   % discard pile: 
+   [ t9, s5, s4, s8, s3, s6, s7, dj, dk, dq, j2, c4, c3, c8, c6, c7, cj, t7 ], 
+
+   % next player: 
+   human
+].
